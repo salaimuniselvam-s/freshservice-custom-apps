@@ -1,1 +1,0 @@
-# freshservice-custom-apps
