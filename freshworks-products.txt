@@ -1,0 +1,18 @@
+Freshworks offers a suite of customer engagement and business software products designed to help companies manage various aspects of customer support, sales, and team collaboration. Here's a brief summary of each product in the Freshworks suite:
+
+1. Freshdesk: Freshdesk is a customer support and helpdesk software that enables businesses to manage customer inquiries, requests, and issues efficiently through multiple communication channels. It includes ticket management, automation, reporting, and integration capabilities.
+
+2. Freshservice: Freshservice is an IT service management (ITSM) and IT asset management (ITAM) solution. It helps IT teams streamline their service delivery processes, manage assets, handle incidents, and provide efficient support to internal teams.
+
+3. Freshsales: Freshsales is a sales CRM (Customer Relationship Management) software that assists sales teams in managing leads, contacts, deals, and communication. It provides features for lead scoring, email tracking, and automations to improve sales effectiveness.
+
+4. Freshchat: Freshchat is a modern messaging software that enables businesses to engage with website visitors and app users in real time. It supports proactive chats, chatbots, and integration with other Freshworks products to provide personalized customer interactions.
+
+5. Freshconnect: Freshconnect is a team collaboration tool that facilitates internal communication and collaboration among team members. It includes features like group discussions, direct messaging, file sharing, and project collaboration.
+
+6. Freshcaller: Freshcaller is a cloud-based call center and phone system solution. It offers call routing, IVR (Interactive Voice Response), call recording, and analytics to help businesses manage customer interactions via phone effectively.
+
+7. Freshteam: Freshteam is an HR management software that covers recruitment, employee onboarding, time-off management, performance management, and employee information management. It streamlines HR processes and centralizes employee data.
+
+
+Each Freshworks product is designed to address specific business needs, whether it's customer support, sales management, team collaboration, or HR management. While these products can be used individually, they are also designed to work together seamlessly, allowing businesses to create integrated workflows across various departments for improved efficiency and better customer experiences.
