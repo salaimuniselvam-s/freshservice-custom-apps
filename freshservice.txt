@@ -5,3 +5,5 @@ https://developers.freshservice.com/docs
 placeholder -> where to display the ui on the dashboard  (full_page_app)
 
 iparams(installation parameters) -> way to receive and access configuration data which is provided by the user ( kind of like an .env file)  --> fdk generate
+  - normal iparams --> client.iparams.get(<name>)
+  - secure iparams --> <%= iparam.<name> %>

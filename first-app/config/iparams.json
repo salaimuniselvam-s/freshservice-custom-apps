@@ -1,1 +1,15 @@
-{}
+{
+  "userName": {
+    "display_name": "userName",
+    "description": "Please enter your User Name",
+    "type": "text",
+    "required": true
+  },
+  "clientId": {
+    "display_name": "clientId",
+    "description": "Please enter your clientId",
+    "type": "text",
+    "required": true,
+    "secure": true
+  }
+}

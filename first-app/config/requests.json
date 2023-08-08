@@ -1,0 +1,13 @@
+{
+  "secureIparamTest": {
+    "schema": {
+      "method": "GET",
+      "host": "en88wuci6yb5p.x.pipedream.net",
+      "path": "/",
+      "headers": {
+        "Authorization": "Bearer <%= iparam.clientId %>",
+        "Content-Type": "application/json"
+      }
+    }
+  }
+}

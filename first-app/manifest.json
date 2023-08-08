@@ -7,9 +7,23 @@
           "url": "index.html",
           "icon": "styles/images/icon.svg"
         }
+      },
+      "requests": {
+        "secureIparamTest": {
+          "schema": {
+            "method": "GET",
+            "host": "en88wuci6yb5p.x.pipedream.net",
+            "path": "/",
+            "headers": {
+              "Authorization": "Bearer <%= iparam.clientId %>",
+              "Content-Type": "application/json"
+            }
+          }
+        }
       }
     }
   },
+
   "engines": {
     "node": "18.17.0",
     "fdk": "9.0.3"

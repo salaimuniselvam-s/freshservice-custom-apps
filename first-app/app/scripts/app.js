@@ -18,7 +18,19 @@ function renderContactName() {
   var textElement = document.getElementById("apptext");
   client.data
     .get("requester")
-    .then(function (payload) {
+    .then(async function (payload) {
+      //
+      console.log(await client.iparams.get("userName"));
+
+      // secure iparams
+      const response = await client.request.invokeTemplate("secureIparamTest");
+      console.log({ response });
+
+      //
+      client.iparams
+        .get()
+        .then((data) => console.log({ data }, "sms"))
+        .catch((er) => console.error(er));
       textElement.innerHTML = `Data Method returned: ${payload.requester.name}`;
     })
     .catch(handleErr);
